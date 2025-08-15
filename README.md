@@ -1,4 +1,4 @@
-# DBuddy - the database developer buddy
+# DBuddy - the database developer's buddy
 
 [en-us]
 
